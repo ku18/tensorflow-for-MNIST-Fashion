@@ -1,0 +1,1 @@
+This repository contains a Python code implementation for classifying Fashion MNIST dataset using a Sequential Neural Network built with Keras and TensorFlow, including loading the dataset, data preprocessing, model building, and training.
